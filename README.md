@@ -1,10 +1,21 @@
-👋 Hi there! I'm Vishal Jain.
-- 👀 I’m interested in Learn New Skills in IT Industry. 
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning. 
-- 📫 Reach me at my linked in or my email vishal112006jain@gmail.com.
-- ⚡ Fun fact: 😄😄
+<h1 align="center">Hi 👋, I'm Vishal Jain</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | AI/ML Enthusiast | Tech Educator</h3>
 
-<!---
-Vishal-jain-01/Vishal-jain-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🔭 I’m currently working on: `Digital Twin for Tyre Monitoring`
+- 🌱 I’m learning: `MERN Stack` and `Deep Learning`
+- 💬 Ask me about: `React, ML, Arduino Projects`
+- 👨‍💻 LinkedIn: **www.linkedin.com/in/vishal-jain-11vj2006**
+- 📫 How to reach me: **vishal112006jain@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+Languages: Python, JavaScript, Java
+Frontend: React.js, HTML, CSS
+Backend: Node.js, Express, Flask
+Database: MongoDB, MySQL
+Tools: Git, GitHub, Postman, VSCode
