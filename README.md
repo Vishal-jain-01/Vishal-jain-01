@@ -19,3 +19,12 @@ Frontend: React.js, HTML, CSS
 Backend: Node.js, Express, Flask
 Database: MongoDB, MySQL
 Tools: Git, GitHub, Postman, VSCode
+```
+
+### 🏆 Featured Projects
+```bash
+Tyre Accuracy Prediction System
+Machine learning-based Flask app to predict tire conditions from Tyre Parameters.
+Student Management System
+Java Based Student Management System to gain understanding of CRUD operations.
+
